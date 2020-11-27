@@ -1,0 +1,7 @@
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\Test\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe.config
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\Test\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.exe
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\Test\DistanceBetweenPoints\bin\Debug\DistanceBetweenPoints.pdb
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\Test\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.csprojAssemblyReference.cache
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\Test\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.csproj.CoreCompileInputs.cache
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\Test\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.exe
+F:\Documents\Programming\C#\C# - уровень 1\Практика\1 урок\HW\Test\DistanceBetweenPoints\obj\Debug\DistanceBetweenPoints.pdb
